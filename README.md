@@ -19,7 +19,8 @@ I'm passionate about building scalable data pipelines and creating insights that
 - 📧 Email: Bhanuvp1@hotmail.com
 - 📍 Location: Melbourne, VIC, Australia
 
-
+### 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[prakashg-de]&show_icons=true&theme=radical)
 
 
 *"Turning data into insights, one pipeline at a time"*
