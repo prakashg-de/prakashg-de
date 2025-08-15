@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Prakash! 👋
 
-<!--
-**prakashg-de/prakashg-de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Data Engineer | ETL QA Engineer | Cloud Solutions Specialist
 
-Here are some ideas to get you started:
+I'm passionate about building scalable data pipelines and creating insights that drive business decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies & Tools
+- **Cloud Platforms:** Microsoft Azure, Microsoft Fabric
+- **Programming:** Python, SQL, PySpark, DAX
+- **Analytics:** Power BI, Azure Data Factory, Databricks
+- **Databases:** Azure SQL, SQL Server, Snowflake
+
+### 📊 Featured Projects
+- 🏦 [Banking Analytics Platform](https://github.com/[username]/banking-analytics) - Azure Fabric & Power BI
+- 🛒 [E-commerce ETL Pipeline](https://github.com/[username]/ecommerce-etl) - Azure Data Factory
+- 📈 [Real-time Data Streaming](https://github.com/[username]/streaming-pipeline) - Python & Kafka
+
+### 📫 How to reach me:
+- 📧 Email: Bhanuvp1@hotmail.com
+- 📍 Location: Melbourne, VIC, Australia
+
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=radical)
+
+
+*"Turning data into insights, one pipeline at a time"*
